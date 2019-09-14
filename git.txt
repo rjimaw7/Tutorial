@@ -7,3 +7,8 @@ git commit > press I for insert mode > press escape to exit > then press wq
 $ git commit -m 'Changed JS file' = shortcut
 touch .gitignore - create a text file
 open gitignore and type the exact name file of the document that you don't want to include
+
+git branch login - create branch and 'login' is the variable name
+
+git checkout branch - to switch branch
+git checkout master - to switch back , you will lose all your created files once you switch back
