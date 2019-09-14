@@ -1,0 +1,9 @@
+$ touch git.txt - create new file
+git status - check latest
+git add . - add all in the red
+git rm --cached main.js - remove main js
+git add *.html - get all .html files
+git commit > press I for insert mode > press escape to exit > then press wq
+$ git commit -m 'Changed JS file' = shortcut
+touch .gitignore - create a text file
+open gitignore and type the exact name file of the document that you don't want to include
