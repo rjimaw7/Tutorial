@@ -12,3 +12,4 @@ git branch login - create branch and 'login' is the variable name
 
 git checkout branch - to switch branch
 git checkout master - to switch back , you will lose all your created files once you switch back
+git merge login - to merge 2 master and sub branches login is the variable name
